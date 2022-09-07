@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheTrueHonker
 - 👀 I’m interested in Games, Technology & complex stuff
-- 🌱 I’m currently learning Assemblys in C#
-- 💞️ I’m looking to collaborate on anything interesting in C# or TypeScript
+- 🌱 I’m currently learning Angular and everything around it
+- 💞️ I’m looking to collaborate on anything interesting in C#, Angular or React
 - 📫 How to reach me: Discord (Honker#4872)
 
 <!---
